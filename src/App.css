@@ -11,6 +11,11 @@ body,
   background: white;
 }
 
+.container {
+  max-width: 1400px;
+  margin: auto;
+}
+
 /* main page */
 
 .list-books-title {
@@ -57,7 +62,7 @@ body,
 .open-search {
   position: fixed;
   right: 25px;
-  bottom: 25px;
+  top: 25px;
 }
 .open-search p {
   display: block;

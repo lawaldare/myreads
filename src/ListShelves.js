@@ -28,7 +28,7 @@ class ListShelves extends Component {
           />
           <Link to="/search">
             <div className="open-search">
-              <p>Add some Books</p>
+              <i class="fas fa-search fa-3x" />
             </div>
           </Link>
         </div>
